@@ -1,6 +1,6 @@
 Cloudcc
 ===================
-![wtfpl](https://github.com/MagicDroidX/Nukkit/raw/master/images/banner.png)
+![wtfpl](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
